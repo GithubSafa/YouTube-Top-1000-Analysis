@@ -1,4 +1,4 @@
-# SQL-and-Power-BI-Top-1000-Youtubers-Analysis-End-to-end-Portfolio-Project
+# SQL-and-Power-BI-Top-1000-Youtubers-Analysis
 ## Introduction
 ### Business Problem Statement:
 As a YouTube content creator or a marketing analyst, the goal is to gain insights into the performance and characteristics of the top 1000 YouTubers based on their subscriber count. This analysis aims to provide actionable information for content creators, marketers, and stakeholders to make informed decisions and optimize strategies for content creation, audience engagement, and channel growth.
